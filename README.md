@@ -63,6 +63,10 @@ My goal is constant improvement and the desire to reach new heights! 🌟
 
 ---
 
-<img style="margin: 10px" src="https://www.cmarix.com/blog/wp-content/uploads/2023/05/differences-between-back-end-vs-front-end-vs-full-stack-developers.webp" alt="Skills" />
+<img style="margin: 10px" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1651780522995/zZbL8WM2v.gif" alt="Skills" />
+
+<img style="margin: 10px" src="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph-dark.svg" alt="Skills" />
+
+<!-- <img style="margin: 10px" src="https://www.cmarix.com/blog/wp-content/uploads/2023/05/differences-between-back-end-vs-front-end-vs-full-stack-developers.webp" alt="Skills" /> -->
 
 <img style="margin: 10px" src="https://png.pngtree.com/png-clipart/20210312/original/pngtree-web-developer-isometric-illustration-png-image_6067558.jpg" alt="Skills" />
