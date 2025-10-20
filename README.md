@@ -36,7 +36,7 @@ My goal is constant improvement and the desire to reach new heights! 🌟
 - Cloud & DevOps: AWS (S3, SES, API Gateway), CDK, Terraform
 - API Tools: Fetch, Axios, React Query
 
-[![Telegram Badge](https://img.shields.io/badge/-geffer-blue?style=flat&logo=Telegram&logoColor=white) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:viktorvkengin@meta.ua)
+[![Telegram Badge](https://img.shields.io/badge/-geffer-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/geffer_2K20) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:viktorvkengin@meta.ua)
 
 ### 💻 Technologies:
 
